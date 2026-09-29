@@ -23,14 +23,14 @@
         "title": "Invited Lecture - Transformação Digital na Saúde com IA",
         "location": "Guimarães, Portugal",
         "range": "April 2026",
-        "summary": "Showed how to optimise large-scale LLM inference on the multi-node ARM-based architecture of the Deucalion supercomputer.",
+        "summary": "Showed how to optimize large-scale LLM inference on the multi-node ARM-based architecture of the Deucalion supercomputer.",
         "links": ["https://indico.acnca.pt/event/9/"]
     },
     {
         "title": "EPICURE Hackathon on Code Optimisation for Heterogeneous HPC Environments",
         "location": "Porto, Portugal",
         "range": "April 2026",
-        "summary": "Co-organiser and mentor. Guided participants through performance profiling, parallel computing and code portability across heterogeneous HPC architectures, with hands-on support for llama.cpp, vLLM, AlphaFold3, GROMACS and Qiskit on Deucalion.",
+        "summary": "Co-organizer and mentor. Guided participants through performance profiling, parallel computing and code portability across heterogeneous HPC architectures, with hands-on support for llama.cpp, vLLM, AlphaFold3, GROMACS and Qiskit on Deucalion.",
         "links": ["https://epicure-hpc.eu/2026/01/16/epicure-hackathon-code-optimisation-for-heterogeneous-hpc-environments/"]
     },
     {
@@ -64,7 +64,7 @@
         "title": "InovIA 2025 - Invited Talk",
         "location": "Lisbon, Portugal",
         "range": "June 2025",
-        "summary": "*Deucalion: HPC for Startups and SMEs* at the launch of InovIA, an FCCN/FCT programme giving startups and SMEs access to HPC and AI resources.",
+        "summary": "*Deucalion: HPC for Startups and SMEs* at the launch of InovIA, an FCCN/FCT program giving startups and SMEs access to HPC and AI resources.",
         "links": ["https://indico.eurocc.fccn.pt/event/70/"]
     },
     {
