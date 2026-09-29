@@ -1,6 +1,32 @@
 [
     {
-        "grouping": "Machine Learning & LLMs",
+        "grouping": "LLM Inference & Serving",
+        "skills": [
+            {
+                "name": "vLLM"
+            },
+            {
+                "name": "SGLang"
+            },
+            {
+                "name": "llama.cpp (llama-server, llama-bench)"
+            },
+            {
+                "name": "Ray"
+            },
+            {
+                "name": "Distributed inference over RPC"
+            },
+            {
+                "name": "GGUF quantization"
+            },
+            {
+                "name": "Hugging Face"
+            }
+        ]
+    },
+    {
+        "grouping": "Machine Learning",
         "skills": [
             {
                 "name": "PyTorch"
@@ -9,13 +35,7 @@
                 "name": "TensorFlow"
             },
             {
-                "name": "Hugging Face"
-            },
-            {
-                "name": "vLLM"
-            },
-            {
-                "name": "llama.cpp"
+                "name": "Federated Learning"
             },
             {
                 "name": "NVIDIA FLARE"
@@ -26,11 +46,48 @@
         ]
     },
     {
-        "grouping": "HPC & MLOps",
+        "grouping": "HPC Systems",
         "skills": [
             {
                 "name": "Slurm"
             },
+            {
+                "name": "Singularity / Apptainer"
+            },
+            {
+                "name": "Multi-node execution over InfiniBand"
+            },
+            {
+                "name": "ARM (A64FX, NVIDIA Grace)"
+            },
+            {
+                "name": "NVIDIA A100 GPUs"
+            },
+            {
+                "name": "CUDA"
+            }
+        ]
+    },
+    {
+        "grouping": "Performance & Energy",
+        "skills": [
+            {
+                "name": "NVIDIA Nsight"
+            },
+            {
+                "name": "LLM benchmarking (TTFT, TPOT, throughput)"
+            },
+            {
+                "name": "Energy consumption analysis"
+            },
+            {
+                "name": "CPU/GPU resource monitoring"
+            }
+        ]
+    },
+    {
+        "grouping": "MLOps & Platforms",
+        "skills": [
             {
                 "name": "Open OnDemand"
             },
@@ -53,13 +110,19 @@
                 "name": "Python"
             },
             {
-                "name": "Linux"
-            },
-            {
                 "name": "Bash"
             },
             {
+                "name": "Linux"
+            },
+            {
                 "name": "Git"
+            },
+            {
+                "name": "LaTeX"
+            },
+            {
+                "name": "gnuplot"
             }
         ]
     }
