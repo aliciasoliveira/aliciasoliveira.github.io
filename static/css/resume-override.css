@@ -1,0 +1,19 @@
+/* Skills as separated tags (most skills have no devicon to space them) */
+#skills ul {
+  padding-left: 0;
+  margin-bottom: 1.5rem;
+}
+#skills .list-inline-item {
+  display: inline-block;
+  margin: 0 0.4rem 0.5rem 0;
+  padding: 0.3rem 0.8rem;
+  border: 1px solid #e9c7b8;
+  border-radius: 999px;
+  background: #fbf3ef;
+  color: #495057;
+  font-size: 0.95rem;
+  line-height: 1.4;
+}
+#skills .list-inline-item i {
+  margin-right: 0.3rem;
+}
