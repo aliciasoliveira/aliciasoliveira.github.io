@@ -1,0 +1,118 @@
+[
+    {
+        "title": "EuroHPC User Days 2026",
+        "location": "Dublin, Ireland",
+        "range": "September 2026",
+        "summary": "Engaged with the European supercomputing user community on best practices for projects using EuroHPC HPC, quantum computing and AI resources. Presented a live demo of the Deucalion supercomputer's Open OnDemand environment, showcasing interactive applications such as VAPOR, VMD, vLLM and llama.cpp, and workloads including AlphaFold3, ECMWF's AIFS weather forecasting model and AMALIA, the Portuguese large language model.",
+        "links": ["https://userdays2026.eurohpc-ju.europa.eu/"]
+    },
+    {
+        "title": "CBMS 2026 - 39th IEEE International Symposium on Computer-Based Medical Systems",
+        "location": "Limassol, Cyprus",
+        "range": "June 2026",
+        "summary": "Oral presentation of the paper *OHANA: Optimizing Heterogeneous Multi-Artifact Correction in Neuroimaging Analysis*."
+    },
+    {
+        "title": "Jornadas FCCN 2026",
+        "location": "Porto, Portugal",
+        "range": "May 2026",
+        "summary": "Live demonstration of the Deucalion and MareNostrum 5 European supercomputers in the session *Demonstração Deucalion & MareNostrum 5: Supercomputação Europeia na vanguarda*.",
+        "links": ["https://indico.fccn.pt/event/61/"]
+    },
+    {
+        "title": "Invited Lecture - Transformação Digital na Saúde com IA",
+        "location": "Guimarães, Portugal",
+        "range": "April 2026",
+        "summary": "Showed how to optimise large-scale LLM inference on the multi-node ARM-based architecture of the Deucalion supercomputer.",
+        "links": ["https://indico.acnca.pt/event/9/"]
+    },
+    {
+        "title": "EPICURE Hackathon on Code Optimisation for Heterogeneous HPC Environments",
+        "location": "Porto, Portugal",
+        "range": "April 2026",
+        "summary": "Co-organiser and mentor. Guided participants through performance profiling, parallel computing and code portability across heterogeneous HPC architectures, with hands-on support for llama.cpp, vLLM, AlphaFold3, GROMACS and Qiskit on Deucalion.",
+        "links": ["https://epicure-hpc.eu/2026/01/16/epicure-hackathon-code-optimisation-for-heterogeneous-hpc-environments/"]
+    },
+    {
+        "title": "Invited Lecture - Distributed LLM Inference with llama.cpp",
+        "location": "University of Minho, Master's in Advanced Computing",
+        "range": "March 2026",
+        "summary": "Single- and multi-node deployment and benchmarking of llama.cpp with Slurm on ARM-based infrastructure: llama-server and RPC workers, resource allocation, InfiniBand communication, and latency/throughput evaluation under different tuning configurations."
+    },
+    {
+        "title": "SC25 - Supercomputing Conference",
+        "location": "St. Louis, MO, USA",
+        "range": "November 2025",
+        "summary": "Participated in the leading international conference on high-performance computing, networking, storage and analysis.",
+        "links": ["https://sc25.supercomputing.org/"]
+    },
+    {
+        "title": "Encontro de Computação Avançada 2025",
+        "location": "Aveiro, Portugal",
+        "range": "October 2025",
+        "summary": "Represented Deucalion at the 5th Advanced Computing Meeting, a national event on HPC and advanced computing.",
+        "links": ["https://indico.fccn.pt/event/53/"]
+    },
+    {
+        "title": "European Researchers' Night 2025",
+        "location": "Braga, Portugal",
+        "range": "June 2025",
+        "summary": "Represented the Deucalion supercomputer, presenting LLM inference system models implemented on Deucalion at a science outreach event on *Science for Global Challenges*.",
+        "links": ["https://noitedosinvestigadores.org/programas-locais/programa-braga/"]
+    },
+    {
+        "title": "InovIA 2025 - Invited Talk",
+        "location": "Lisbon, Portugal",
+        "range": "June 2025",
+        "summary": "*Deucalion: HPC for Startups and SMEs* at the launch of InovIA, an FCCN/FCT programme giving startups and SMEs access to HPC and AI resources.",
+        "links": ["https://indico.eurocc.fccn.pt/event/70/"]
+    },
+    {
+        "title": "Jornadas FCCN 2025",
+        "location": "Coimbra, Portugal",
+        "range": "May 2025",
+        "summary": "Annual FCCN/FCT event on advanced digital services for higher education and research: connectivity, computing, collaboration, knowledge and security.",
+        "links": ["https://indico.fccn.pt/event/44/"]
+    },
+    {
+        "title": "Invited Lecture - Distributed ML Training, Experiment Tracking and Management",
+        "location": "University of Minho, Master's in Advanced Computing",
+        "range": "April 2025",
+        "summary": "Training a PyTorch model with TensorBoard and MLflow integration, monitoring loss, accuracy, CPU and memory, and running the full workflow on Deucalion through Open OnDemand."
+    },
+    {
+        "title": "Flower AI Summit 2025",
+        "location": "London, United Kingdom",
+        "range": "March 2025",
+        "summary": "Talks and workshops on federated learning, distributed AI systems and privacy-preserving ML.",
+        "links": ["https://flower.ai/events/flower-ai-summit-2025/"]
+    },
+    {
+        "title": "EuroHPC Summit 2025",
+        "location": "Kraków, Poland",
+        "range": "March 2025",
+        "summary": "Presented a live demo of LLM inference (Llama 3 and DeepSeek) on the Deucalion supercomputer, showcasing its performance and AI readiness.",
+        "links": ["https://www.eurohpcsummit.eu/"]
+    },
+    {
+        "title": "EPICURE HPC in ARM Architecture Hackathon 2025",
+        "location": "Braga, Portugal",
+        "range": "February 2025",
+        "summary": "Contributed to performance tuning and code portability of HPC applications on ARM, and presented a live demo of PyTorch models and LLMs running on Deucalion.",
+        "links": ["https://epicure-hpc.eu/2024/12/18/epicure-hpc-in-arm-architecture-hackathon/"]
+    },
+    {
+        "title": "Encontro Nacional de Computação Avançada 2024",
+        "location": "Covilhã, Portugal",
+        "range": "November 2024",
+        "summary": "Presented the capabilities of the Deucalion supercomputer for job submission, running DL models, and MLOps integration (TensorBoard and MLflow) for workflow monitoring.",
+        "links": ["https://educast.fccn.pt/vod/clips/1yb77re9fv/ipod.m4v?locale=pt", "https://www.ubi.pt/Evento/22689"]
+    },
+    {
+        "title": "ACM Europe Summer School on HPC Computer Architectures for AI and Dedicated Applications",
+        "location": "Barcelona, Spain",
+        "range": "September 2024",
+        "summary": "Lectures and workshops on HPC & AI convergence, RISC-V, LLMs, ML in materials research and quantum computing, with a keynote by Turing Award laureate Leslie Lamport.",
+        "links": ["https://europe.acm.org/seasonal-schools/hpc/2024"]
+    }
+]

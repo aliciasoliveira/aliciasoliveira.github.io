@@ -1,0 +1,32 @@
+[
+    {
+        "role": "HPC User Support",
+        "company": "CNCA (Deucalion Supercomputer)",
+        "summary": "- Technical user support for AI, ML and related workloads at the Deucalion supercomputer.\n- Developed and maintain a suite of Open OnDemand apps (Jupyter, TensorBoard, MLflow, remote desktops/GUIs, containerized LLM inference) giving HPC users self-service access to interactive workloads on clusters.",
+        "range": "September 2025 - Present"
+    },
+    {
+        "role": "ML/AI Engineer",
+        "company": "INESC TEC (EPICURE - EuroHPC JU Project)",
+        "summary": "- Advanced technical support for AI workloads: optimising code, improving performance, and adapting ML and LLM applications to diverse HPC architectures.\n- Designing educational content and delivering hands-on training on ML/DL frameworks such as PyTorch, TensorFlow and Hugging Face.\n- Clear, proactive communication with users; promoting project outcomes, best practices and resources to the community.\n- Supporting deployment, scaling and monitoring of ML and LLM workloads on HPC, including MLOps tools like MLflow and TensorBoard.\n- Technical guidance for AI projects submitted under EuroHPC, running ML/LLM models on systems like Deucalion and Leonardo.",
+        "range": "December 2024 - Present"
+    },
+    {
+        "role": "MSc Student",
+        "company": "High-Assurance Software Lab, HASLab (INESC TEC)",
+        "summary": "- Development of DL models with TensorFlow and PyTorch, with an emphasis on Python.\n- Application of DL models in HPC.\n- Implementation of Federated Learning tools (NVIDIA FLARE and Flower).",
+        "range": "July 2023 - November 2024"
+    },
+    {
+        "role": "Membership Committee",
+        "company": "Institute of Electrical and Electronics Engineers (IEEE)",
+        "summary": "- Member of the human resources team.\n- Information technology services activities.",
+        "range": "April 2023 - May 2024"
+    },
+    {
+        "role": "Tutor",
+        "company": "Tutoring Centre (ExplicArte)",
+        "summary": "Physics and Chemistry A (10th/11th grade), Mathematics A (10th-12th grade), and university-level Linear Algebra and Calculus.",
+        "range": "September 2018 - July 2023"
+    }
+]

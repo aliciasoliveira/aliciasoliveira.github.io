@@ -1,0 +1,20 @@
+[
+    {
+        "school": "[University of Minho](https://www.uminho.pt)",
+        "degree": "Doctoral Program in Informatics",
+        "major": "**Thesis:** A Systems Perspective for LLMs Optimizations",
+        "range": "September 2025 - Present"
+    },
+    {
+        "school": "[University of Minho](https://www.uminho.pt)",
+        "degree": "Master in Medical Informatics",
+        "major": "**Thesis:** Federated Learning-based Artifact Correction in Brain MRI scans in HPC environments",
+        "range": "September 2022 - November 2024"
+    },
+    {
+        "school": "[University of Minho](https://www.uminho.pt)",
+        "degree": "Degree in Biomedical Engineering",
+        "major": "Braga, Portugal",
+        "range": "September 2019 - July 2022"
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "grouping": "Machine Learning & LLMs",
+        "skills": [
+            {
+                "name": "PyTorch"
+            },
+            {
+                "name": "TensorFlow"
+            },
+            {
+                "name": "Hugging Face"
+            },
+            {
+                "name": "vLLM"
+            },
+            {
+                "name": "llama.cpp"
+            },
+            {
+                "name": "NVIDIA FLARE"
+            },
+            {
+                "name": "Flower"
+            }
+        ]
+    },
+    {
+        "grouping": "HPC & MLOps",
+        "skills": [
+            {
+                "name": "Slurm"
+            },
+            {
+                "name": "Open OnDemand"
+            },
+            {
+                "name": "MLflow"
+            },
+            {
+                "name": "TensorBoard"
+            },
+            {
+                "name": "Jupyter",
+                "devicon": "jupyter"
+            }
+        ]
+    },
+    {
+        "grouping": "Languages & Tools",
+        "skills": [
+            {
+                "name": "Python"
+            },
+            {
+                "name": "Linux"
+            },
+            {
+                "name": "Bash"
+            },
+            {
+                "name": "Git"
+            }
+        ]
+    }
+]

@@ -1,0 +1,29 @@
+title = "Alícia Oliveira"
+baseURL = "https://aliciasoliveiraa.github.io/"
+theme = "hugo-resume"
+locale = "en-us"
+enableGitInfo = false
+
+[params]
+address = "Braga, Portugal"
+email = "aliciasoliveiraa@gmail.com"
+favicon = "/favicon.ico"
+firstName = "Alícia"
+lastName = "Oliveira"
+profileImage = "img/profile.png"
+showQr = false
+showContact = false
+showBoards = false
+showCertifications = false
+showSocializations = true
+sections = ["experience", "education", "publications", "talks", "skills", "languages"]
+
+[[params.handles]]
+    name = "LinkedIn"
+    link = "https://www.linkedin.com/in/aliciasoaresoliveira/"
+
+[outputs]
+home = ["HTML", "JSON"]
+
+[taxonomies]
+tag = "tags"
