@@ -1,5 +1,5 @@
 title = "Alícia Oliveira"
-baseURL = "https://aliciasoliveiraa.github.io/"
+baseURL = "https://aliciasoliveira.github.io/"
 theme = "hugo-resume"
 locale = "en-us"
 enableGitInfo = false
