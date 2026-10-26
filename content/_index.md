@@ -4,15 +4,15 @@ outputs:
 - html
 - json
 ---
-I'm an ML/AI Research Engineer at INESC TEC and part of the HPC Support team at the Deucalion supercomputer in Portugal. I help researchers run, scale, and optimize AI workloads, especially LLMs, on supercomputers.
+I work on making AI, and especially large language models, run efficiently on supercomputers.
 
-I'm also a PhD student in Informatics at the University of Minho, researching **a systems perspective for LLM optimizations**.
+I'm an ML/AI Research Engineer at INESC TEC and part of the HPC Support team at Deucalion, the EuroHPC supercomputer in Portugal, where I help researchers run, scale, and optimize their AI workloads. I'm also a PhD student in Informatics at the University of Minho, researching **a systems perspective for LLM optimization**.
 
-**What I work on**
+My work focuses on:
 
 - LLM inference and serving at scale (vLLM, llama.cpp) on multi-node, heterogeneous CPU/GPU systems
-- Performance analysis, energy efficiency, and distributed execution of AI workloads
-- Self-service AI tools for HPC users: Open OnDemand, MLflow, TensorBoard
+- Performance and energy efficiency of AI workloads
+- Self-service AI tools for HPC users (Open OnDemand, MLflow, TensorBoard)
 - Training, hackathons, and talks, from the EuroHPC Summit to SC25
 
-Before HPC, I trained as a biomedical engineer and did my Master's in Medical Informatics on federated learning for brain MRI artifact correction.
+I have a background in biomedical engineering and a Master's in Medical Informatics, where I worked on federated learning for brain MRI artifact correction.
