@@ -5,6 +5,7 @@ pubtype: "Paper"
 featured: true
 description: "**Alícia Oliveira**, Beatriz Cepa, António Sousa, Cláudia Brito. *IEEE CBMS*, 2026."
 tags: ["Neuroimaging", "Deep Learning", "MRI"]
+link: "https://www.computer.org/csdl/proceedings-article/cbms/2026/499900a703/2kryb1KnCUg"
 weight: 200
 ---
 **Alícia Oliveira**, Beatriz Cepa, António Sousa, Cláudia Brito.
