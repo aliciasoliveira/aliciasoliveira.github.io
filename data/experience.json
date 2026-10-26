@@ -1,13 +1,13 @@
 [
     {
-        "role": "HPC User Support",
+        "role": "HPC Support",
         "company": "CNCA (Deucalion Supercomputer)",
         "summary": "- Technical user support for AI, ML and related workloads at the Deucalion supercomputer.\n- Developed and maintain a suite of Open OnDemand apps (Jupyter, TensorBoard, MLflow, remote desktops/GUIs, containerized LLM inference) giving HPC users self-service access to interactive workloads on clusters.",
         "range": "September 2025 - Present"
     },
     {
-        "role": "ML/AI Engineer",
-        "company": "INESC TEC (EPICURE - EuroHPC JU Project)",
+        "role": "ML/AI Research Engineer",
+        "company": "INESC TEC",
         "summary": "- Advanced technical support for AI workloads: optimizing code, improving performance, and adapting ML and LLM applications to diverse HPC architectures.\n- Designing educational content and delivering hands-on training on ML/DL frameworks such as PyTorch, TensorFlow and Hugging Face.\n- Clear, proactive communication with users; promoting project outcomes, best practices and resources to the community.\n- Supporting deployment, scaling and monitoring of ML and LLM workloads on HPC, including MLOps tools like MLflow and TensorBoard.\n- Technical guidance for AI projects submitted under EuroHPC, running ML/LLM models on systems like Deucalion and Leonardo.",
         "range": "December 2024 - Present"
     },

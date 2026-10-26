@@ -4,7 +4,7 @@ outputs:
 - html
 - json
 ---
-I'm an ML/AI Engineer at INESC TEC (EPICURE, EuroHPC JU) and part of the HPC User Support team at the Deucalion supercomputer in Portugal. I help researchers run, scale, and optimize AI workloads, especially LLMs, on supercomputers.
+I'm an ML/AI Research Engineer at INESC TEC and part of the HPC Support team at the Deucalion supercomputer in Portugal. I help researchers run, scale, and optimize AI workloads, especially LLMs, on supercomputers.
 
 I'm also a PhD student in Informatics at the University of Minho, researching **a systems perspective for LLM optimizations**.
 
